@@ -885,4 +885,4 @@ strings.zhonghu,,,,7,treble,treble,C4,,,,,
 strings.violin,41,,12,7.1,treble,treble,C4,G3-B6,G3-B6,Violin,,
 strings.viola,42,,13,7.2,"treble,alto",alto,C4,C3-C6,C3-C6,Viola,,
 strings.cello,43,,14,7.3,"treble,tenor,bass",bass,C4,C2-A5,C2-A5,Cello,,Violoncello
-strings.contrabass,44,,15,7.4,"treble,bass",bass,C3,E1-C5,E1-C5,Contrabass,,
+strings.contrabass,44,,15,7.4,"treble,bass",bass,C3,E1-C5,E1-C5,Contrabass,,Bass
